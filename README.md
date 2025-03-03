@@ -1,5 +1,3 @@
-# Voice-command-recognition
-
 # Voice Command Recognition - Kaggle Challenge
 
 This repository contains the solution for the Kaggle challenge "TVD-2024 - Voice Command Recognition." In this project, different neural network architectures are implemented and compared for classifying voice commands from audio recordings.
